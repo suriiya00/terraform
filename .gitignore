@@ -1,27 +1,5 @@
-# Local Terraform directories
-.terraform/
-
-# Crash log files
-crash.log
-
-# Terraform variable files that might contain sensitive data
-*.tfvars
-*.tfvars.json
-
-# Override files which can contain sensitive data
-override.tf
-override.tf.json
-*_override.tf
-*_override.tf.json
-
-# CLI configuration files
-.terraformrc
-terraform.rc
-
-# Any plan output files
-*.tfplan
-
-# Ignore editor specific files (optional)
-.vscode/
-.idea/
-*.swp
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   gitignore
